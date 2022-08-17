@@ -5,5 +5,5 @@ Tech Stack :- HTML, CSS, JAVASCRIPT
 
 API used :- [Open Weather](https://openweathermap.org/api)
 
-[!Screenshot](Screenshot1.png)
-[!Screenshots](Screenshot2.png)
+![Screenshot](https://github.com/Rishikavishnoi/WeatherAppUsingJs/blob/main/Screenshot1.png)
+![Screenshots](Screenshot2.png)
