@@ -3,6 +3,8 @@ It's a Weather app in which, you can get the weather details of a particular cit
 
 Tech Stack :- HTML, CSS, JAVASCRIPT
 
+## [DEMO](https://rishikavishnoi.github.io/WeatherAppUsingJs/)
+
 API used :- [Open Weather](https://openweathermap.org/api)
 
 ![Screenshot](Screenshot1.png)
